@@ -2,6 +2,6 @@
 
 Founded: January 2023
 
-Description: Specialist tech consulting for greentech companies and startups
+Description: Specialist tech consulting for greentech companies, startups and nonprofits
 
 Tagline: "Accelerating solutions for positive enviromental change"
